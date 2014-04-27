@@ -7,7 +7,7 @@
 
 #### Modul Pembelajaran DevAcademy
 
-# Android Fundamental 1 (AND101)
+# Android Fundamental 1
 
 <br/>
 <br/>
@@ -23,7 +23,7 @@
 <br/>
 
 Disusun oleh <br/>
-Nurul Arif Setiawan <arif@aegis.co.id> <br/>
+Nurul Arif Setiawan <<arif@aegis.co.id>> <br/>
 
 <br/>
 <br/>

@@ -1,5 +1,5 @@
 
-###### DevAcademy Android Fundamental 1 Notes
+###### DevAcademy Course Notes - Android Fundamental 1
 
 <br/>
 <br/>

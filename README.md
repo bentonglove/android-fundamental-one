@@ -1,5 +1,5 @@
 
-# AND101 - Android Fundamental 1
+# Android Fundamental 1
 
 ## Modules
 
@@ -20,4 +20,3 @@
 * **Action Bar and Navigation**
 * **Preferences**
 * **Advanced UI**
-

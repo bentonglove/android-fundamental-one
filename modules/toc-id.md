@@ -1,5 +1,5 @@
 
-###### DevAcademy - Modul Android Fundamental 1
+###### Modul DevAcademy - Android Fundamental 1
 
 <br/>
 <br/>

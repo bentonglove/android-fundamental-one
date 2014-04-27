@@ -1,5 +1,5 @@
 
-###### DevAcademy Android Bootcamp Notes
+###### DevAcademy Course Notes - Android Fundamental 1
 
 <br/>
 <br/>
@@ -11,33 +11,44 @@
 
 # Preface
 
-This bootcamp is an introduction to developing apps for the Android platform. The course will cover Android overview, installing the required developer tools, Android app fundamental concepts like activities and intents, layout, basic controls like buttons and lists, menus and dialogs, and finally publishing the app.
+The Android Fundamental Training Course is a hands-on introduction to designing and building mobile applications using the Android open source platform. Android Fundamental explains the philosophy of developing for Android through its main application development building blocks and their interaction with one another.
 
-## Teaching Method
+This completely hands-on course encourages students to learn by building increasingly more sophisticated and meaningful mobile applications for Android.
 
-* Instructor will explaining the concept and demonstrate with live coding 
-* Students will do code directly following instructor and using notes here as reference.
+By the end of the course, each participant will build their own complete Android application incorporating most of the key aspects of the platform. Typically, we build a Twitter app for Android, but there are other choices depending on the interests of participants.
+
+## Course Series
+
+[Android Fundamental 1](https://github.com/devacademy/android-fundamental-one) is first part of DevAcademy Android Fundamental course. Student taking this course are required to take [Android Fundamental 2](https://github.com/devacademy/android-fundamental-two) to complete their Android Fundmental course.
+
+## Objectives
+
+Upon completion of this course, you will be able to:
+
+* Build your own Android apps
+* Understand how Android applications work, their life cycle, manifest, Intents, and using external resources
+* Design and develop useful Android applications with compelling user interfaces by using, extending, and creating your own layouts and Views and using Menus
+
+## Audience
+
+This course is designed for software developers interested in designing, creating, deploying, and testing applications for the Android mobile phone platform. It is valuable to both novices as well as gurus (who already have experience in developing mobile applications for other platforms).
 
 ## Prerequisites
 
-Students attending this bootcamp are expected to:
+To attend this course student must passed Java for Android Exam.
 
-* Have solid understanding on fundamentals of programming in Java. For example: what is variable, array and iteration, function and parameter, and exception handling.
-* Understand Object Oriented Programming (OOP) in Java including classes, inheritance, interface and package.
+For those who wants to learn or refresh their Java skilss, can visit :
 
-For those who wants to learn and know more about Java programming language, [this website](http://www.tutorialspoint.com/java/) offers a good Java tutorials.
+* [NewCircle's Fundamentals of Java tutorial](https://thenewcircle.com/static/bookshelf/java_fundamentals_tutorial/index.html)
+* [Tutorials Point's Java tutorial](http://www.tutorialspoint.com/java/)
 
 ## References
 
-This bootcamp notes are not intended to be a complete package to learn Android ecosystem and development. Students are encouraged to look for sources in internet to widen their understanding. Below are some great Android references:
+Students are encouraged to look for sources in internet to widen their understanding. Below are some great Android references:
 
 * [Android developer website](http://developer.android.com). Primary source for Android developers. Student can download Android Development Toolbox (ADT), find tutorials, API references and guides on Android app development.
 * Learning Android by Marko Gargenta. This book offers easy to follow materials on Android with programming practice. Available [here](http://shop.oreilly.com/product/0636920010883.do)
 
-## Materials
+## Course Notes
 
-Materials for this Bootcamp are available in [github](https://github.com/devacademy/android-bootcamp).
-
-## Registration
-
-Students are required to register to DevAcademy moodle [website](http://moodle.devacademy.co.id). We will frequently update the website with new materials and host Android competency tests there.
+This course notes are available in [github](https://github.com/devacademy/android-fundamental-one).
