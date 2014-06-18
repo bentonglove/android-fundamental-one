@@ -17,10 +17,6 @@ This completely hands-on course encourages students to learn by building increas
 
 By the end of the course, each participant will build their own complete Android application incorporating most of the key aspects of the platform. Typically, we build a Twitter app for Android, but there are other choices depending on the interests of participants.
 
-## Course Series
-
-[Android Fundamental 1](https://github.com/devacademy/android-fundamental-one) is first part of DevAcademy Android Fundamental course. Student taking this course are required to take [Android Fundamental 2](https://github.com/devacademy/android-fundamental-two) to complete their Android Fundmental course.
-
 ## Objectives
 
 Upon completion of this course, you will be able to:
@@ -28,6 +24,10 @@ Upon completion of this course, you will be able to:
 * Build your own Android apps
 * Understand how Android applications work, their life cycle, manifest, Intents, and using external resources
 * Design and develop useful Android applications with compelling user interfaces by using, extending, and creating your own layouts and Views and using Menus
+
+## Course Series
+
+[Android Fundamental 1](https://github.com/devacademy/android-fundamental-one) is first part of DevAcademy Android Fundamental course. Student taking this course are required to take [Android Fundamental 2](https://github.com/devacademy/android-fundamental-two) to complete their Android Fundmental course.
 
 ## Audience
 
@@ -47,8 +47,16 @@ For those who wants to learn or refresh their Java skilss, can visit :
 Students are encouraged to look for sources in internet to widen their understanding. Below are some great Android references:
 
 * [Android developer website](http://developer.android.com). Primary source for Android developers. Student can download Android Development Toolbox (ADT), find tutorials, API references and guides on Android app development.
-* Learning Android by Marko Gargenta. This book offers easy to follow materials on Android with programming practice. Available [here](http://shop.oreilly.com/product/0636920010883.do)
+* [Learning Android by Marko Gargenta](http://shop.oreilly.com/product/0636920010883.do). This book offers easy to follow materials on Android with programming practice.
 
 ## Course Notes
 
 This course notes are available in [github](https://github.com/devacademy/android-fundamental-one).
+
+## Instructors
+
+**Nurul Arif Setiawan.** 
+
+Arif Setiawan has more than 10 years of experience in software development. He has worked on various software projects from desktop, server, web to mobile applications using many programming languanges and frameworks. He codes in C/C++, Java, C#, Objective-C, PHP, Javascript, HTML & CSS. 
+
+His products are OrchidReader (software for processing exam  

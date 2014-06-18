@@ -11,7 +11,8 @@
 
 * **History of Android** [[view eng](modules/history.md)] [[view id](modules/history-id.md)] [<a href="https://gitprint.com/devacademy/android-fundamental-one/blob/master/modules/history.md" target="_blank">print eng</a>] [<a href="https://gitprint.com/devacademy/android-fundamental-one/blob/master/modules/history-id.md" target="_blank">print id</a>]
 
-* **Android Stack**
+* **Android Stack** [[view eng](modules/stack.md)] [[view id](modules/stack-id.md)] [<a href="https://gitprint.com/devacademy/android-fundamental-one/blob/master/modules/stack.md" target="_blank">print eng</a>] [<a href="https://gitprint.com/devacademy/android-fundamental-one/blob/master/modules/stack-id.md" target="_blank">print id</a>]
+
 * **Hello Android**
 * **Architecting Android Apps**
 * **Debugging and Testing Android Apps**
