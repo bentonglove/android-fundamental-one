@@ -3,7 +3,9 @@
 
 ## Modules
 
-* **Cover** [[view eng](modules/cover.md)] [[view id](modules/cover-id.md)] [<a href="https://gitprint.com/devacademy/android-fundamental-one/blob/master/modules/cover.md" target="_blank">print eng</a>] [<a href="https://gitprint.com/devacademy/android-fundamental-one/blob/master/modules/cover-id.md" target="_blank">print id</a>]
+* **Cover** 
+  * [[view eng](modules/cover.md)] [<a href="https://gitprint.com/devacademy/android-fundamental-one/blob/master/modules/cover.md" target="_blank">print eng</a>]
+  * [[view id](modules/cover-id.md)] [<a href="https://gitprint.com/devacademy/android-fundamental-one/blob/master/modules/cover-id.md" target="_blank">print id</a>]
 
 * **TOC** [[view eng](modules/toc.md)] [[view id](modules/toc-id.md)] [<a href="https://gitprint.com/devacademy/android-fundamental-one/blob/master/modules/toc.md" target="_blank">print eng</a>] [<a href="https://gitprint.com/devacademy/android-fundamental-one/blob/master/modules/cover-id.md" target="_blank">print id</a>] 
 
