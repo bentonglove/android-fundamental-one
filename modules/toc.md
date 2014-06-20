@@ -14,7 +14,10 @@
 #### Preface
 #### History of Android
 #### Android Stack
-#### Hello Android
+#### Installing Android SDK
+#### Hello World
+#### Android Project
+#### Komponen Aplikasi Android
 #### Architecting Android Apps
 #### Debugging and Testing Android Apps
 #### Android Security Overview

@@ -14,7 +14,10 @@
 #### Pendahuluan
 #### Sejarah Android
 #### Android Stack
-#### Hello Android
+#### Instalasi Android SDK
+#### Hello World
+#### Android Project
+#### Android App Component
 #### Perancangan Arsitektur Aplikasi Android
 #### Debugging dan Testing Aplikasi Android
 #### Gambaran Keamanan di Android 
